@@ -1,0 +1,7 @@
+F:\---------IMI------\------INFÓ------\-----ÉRETSÉGIK\E - 2016 Okt\telefon\telefon\bin\Debug\telefon.exe.config
+F:\---------IMI------\------INFÓ------\-----ÉRETSÉGIK\E - 2016 Okt\telefon\telefon\bin\Debug\telefon.exe
+F:\---------IMI------\------INFÓ------\-----ÉRETSÉGIK\E - 2016 Okt\telefon\telefon\bin\Debug\telefon.pdb
+F:\---------IMI------\------INFÓ------\-----ÉRETSÉGIK\E - 2016 Okt\telefon\telefon\obj\Debug\telefon.csproj.AssemblyReference.cache
+F:\---------IMI------\------INFÓ------\-----ÉRETSÉGIK\E - 2016 Okt\telefon\telefon\obj\Debug\telefon.csproj.CoreCompileInputs.cache
+F:\---------IMI------\------INFÓ------\-----ÉRETSÉGIK\E - 2016 Okt\telefon\telefon\obj\Debug\telefon.exe
+F:\---------IMI------\------INFÓ------\-----ÉRETSÉGIK\E - 2016 Okt\telefon\telefon\obj\Debug\telefon.pdb

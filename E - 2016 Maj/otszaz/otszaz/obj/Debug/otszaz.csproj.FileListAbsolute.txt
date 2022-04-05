@@ -1,0 +1,7 @@
+F:\---------IMI------\------INFÓ------\-----ÉRETSÉGIK\E - 2016 Maj\otszaz\otszaz\bin\Debug\otszaz.exe.config
+F:\---------IMI------\------INFÓ------\-----ÉRETSÉGIK\E - 2016 Maj\otszaz\otszaz\bin\Debug\otszaz.exe
+F:\---------IMI------\------INFÓ------\-----ÉRETSÉGIK\E - 2016 Maj\otszaz\otszaz\bin\Debug\otszaz.pdb
+F:\---------IMI------\------INFÓ------\-----ÉRETSÉGIK\E - 2016 Maj\otszaz\otszaz\obj\Debug\otszaz.csproj.AssemblyReference.cache
+F:\---------IMI------\------INFÓ------\-----ÉRETSÉGIK\E - 2016 Maj\otszaz\otszaz\obj\Debug\otszaz.csproj.CoreCompileInputs.cache
+F:\---------IMI------\------INFÓ------\-----ÉRETSÉGIK\E - 2016 Maj\otszaz\otszaz\obj\Debug\otszaz.exe
+F:\---------IMI------\------INFÓ------\-----ÉRETSÉGIK\E - 2016 Maj\otszaz\otszaz\obj\Debug\otszaz.pdb
